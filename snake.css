@@ -1,0 +1,15 @@
+td {
+  border: 1px solid;
+  width: 25px;
+  height: 25px;
+}
+table{
+      border-spacing: 0px;
+}
+
+.snakeClass{
+  background-color: red;
+}
+.foodClass{
+  background-color: green;
+}
